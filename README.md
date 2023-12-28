@@ -9,34 +9,27 @@ App 개발(ppt 19, 61~66)
 ### 프로젝트 인원 : 3명
 ### 역할 : Oracle Cloud DB구축, 서버 개발, 앱 개발
 ### 상세 개발 : 
-- Oracle Cloud DB를 통해 공유DB 구축
-- Tomcat을 통해 웹 서버를 구축하고 java & jsp를 이용하여 android <-> DB 간 통신을 담당하는 기능 개발
-- App(질환백과, 자주찾는 질병정보) 개발
+- App(문진표, 내정보) 개발
+- Oracle Cloud DB를 통해 App관련 DB 개발
+- java & jsp(Tomcat)를 이용하여 App관련 android <-> DB 간 통신을 담당하는 기능 개발
+- 내정보 이미지 변경 기능 개발
+- 문진 알고리즘 개발
 ### 개발 환경 및 언어 : 
 - Visual Studio Code
 - Flutter
 - Dart
-  
+
 # 주요 스크린샷
-- 질환백과
+- 문진표
 <br><br>
-![image](https://github.com/akdlcnd0994/flutterDEBG/assets/28687142/6f03765b-a6e9-4cdc-9ce8-ae5d2f3db2ad)
-![image](https://github.com/akdlcnd0994/flutterDEBG/assets/28687142/7dcf926b-648e-4a69-b232-d9a7bfa24565)
+![image](https://github.com/JunYong11/flutterDEBG/assets/92434317/41fb1c93-548e-4bb4-b6e4-f7234e0d948b)
+![image](https://github.com/JunYong11/flutterDEBG/assets/92434317/b8639526-4dfa-4f6a-9fc6-9d2ce57007e2)
+
 <br><br><br>
-- 카테고리
-<br><br>
-![image](https://github.com/akdlcnd0994/flutterDEBG/assets/28687142/f8963af2-e77e-4476-ba0d-74cdbb3c6d94)
-![image](https://github.com/akdlcnd0994/flutterDEBG/assets/28687142/4664da3e-d880-4402-8068-49f312f61636)
-![image](https://github.com/akdlcnd0994/flutterDEBG/assets/28687142/41f18d69-a87b-42e0-b836-e668500872cc)
-![image](https://github.com/akdlcnd0994/flutterDEBG/assets/28687142/00dbfd39-74fd-41f9-bca8-ce22796b2869)
-<br><br>
-- 내부 저장소에 검색기록 저장
-<br><br>
-![image](https://github.com/akdlcnd0994/flutterDEBG/assets/28687142/06c34b1f-0552-4c4e-a76a-76727bc9142a)
-<br><br>
-- 검색
-<br><br>
-![image](https://github.com/akdlcnd0994/flutterDEBG/assets/28687142/31a86009-216c-462d-9140-5a83f9b5c95e)
+- 내정보
+<br><br>![image](https://github.com/JunYong11/flutterDEBG/assets/92434317/9c31a959-adfb-41df-a4ad-8abf1d54c153)
+![image](https://github.com/JunYong11/flutterDEBG/assets/92434317/76e3c827-b5ee-470a-b9a9-3361b170b0f4)
+![image](https://github.com/JunYong11/flutterDEBG/assets/92434317/4856587e-9cdb-4f4f-9399-516d6c9dc071)
 
 
 
