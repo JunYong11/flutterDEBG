@@ -26,9 +26,11 @@ App 개발(ppt 19, 61~66)
 - Dart
 
 # 주요 스크린샷
+- 메인 화면
+- ![image](https://github.com/JunYong11/flutterDEBG/assets/92434317/adf99518-1ed9-45e0-8c53-3e1475755574)
+
 - 문진표(問診票)
 <br><br>
-![image](https://github.com/JunYong11/flutterDEBG/assets/92434317/b55de82d-2a3f-41c6-9b8a-08ab74173c94)
 ![image](https://github.com/JunYong11/flutterDEBG/assets/92434317/41fb1c93-548e-4bb4-b6e4-f7234e0d948b)
 ![image](https://github.com/JunYong11/flutterDEBG/assets/92434317/b8639526-4dfa-4f6a-9fc6-9d2ce57007e2)
 
